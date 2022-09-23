@@ -46,7 +46,8 @@ router.get('/:id', (req, res) => {
 });
 
 router.post('/', (req, res) => {
-  Tag.create(req.body)
+  Tag.create({
+    tag_name: req.body.tag_name})
   .then(data =>
   {
     res.json(data);

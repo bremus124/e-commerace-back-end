@@ -8,12 +8,13 @@
 
 ## Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshotcategories.png)
+![Screenshot](screenshotproducts.png)
+![Screenshot](screenshottags.png)
 
 --
 
 ## Deployment
 
 - To deploy this project run:
-  - Website:
   - Repository: https://github.com/bremus124/e-commerce-back-end

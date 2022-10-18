@@ -18,3 +18,4 @@
 
 - To deploy this project run:
   - Repository: https://github.com/bremus124/e-commerce-back-end
+  - Video: https://drive.google.com/file/d/1d6w3wmhVhRuGtQzwZDjBwQjmJQ-dV0Qf/view
